@@ -1,0 +1,14 @@
+[
+  {
+    "id": "e1095328-1a10-428f-8c4b-d6f8ebd22ddc",
+    "title": "Buy groceries",
+    "description": "Get milk, eggs, and bread",
+    "status": "completed"
+  },
+  {
+    "id": "4ced3425-a9f0-4408-99c0-816b0ec99a17",
+    "title": "Workout",
+    "description": "Cardio at gym",
+    "status": "pending"
+  }
+]
